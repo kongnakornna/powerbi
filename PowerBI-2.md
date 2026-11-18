@@ -1,13 +1,10 @@
-## คู่มือการทำงาน Application Support: Power BI
+---
+
+# คู่มือการทำงาน Application Support: Power BI
 
 **ผู้จัดทำ:** ทีม Application Support
 **เวอร์ชัน:** 1.0
 **สถานะ:** ต้นฉบับ
-
-**ผู้แต่ง:** kongnakorn jantakun  
-**อีเมล:** kongnakornjantakun@gmail.com  
-**สถานะ:** ต้นฉบับ
-**Reference:** https://github.com/kongnakornna/powerbi
 
 ---
 
